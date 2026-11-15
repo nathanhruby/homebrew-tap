@@ -14,6 +14,6 @@ class Tgo < Formula
 
   test do
     system "{bin}/tgo", "add", "test"
-    system "{bin}/tgo", "finish", "4"
+    system "{bin}/tgo", "finish", "a"
   end
 end
