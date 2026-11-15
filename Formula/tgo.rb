@@ -1,8 +1,8 @@
 class Tgo < Formula
   desc "Simple cli for task management"
   homepage "https://github.com/nathanhruby/tgo"
-  url "https://github.com/nathanhruby/tgo/archive/refs/tags/v0.2.2.tar.gz"
-  sha256 "01f4c796d063589f5826c098a0238d0e048a320b605cc27572392b1d8e529187"
+  url "https://github.com/nathanhruby/tgo/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "c0eb666f808a2a1cdc3838362bb75af7fe846295ce67e8b86714e844c4c31033"
   license "MIT"
 
   depends_on "go" => :build
